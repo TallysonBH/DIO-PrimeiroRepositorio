@@ -1,0 +1,31 @@
+Principais Códigos
+
+## Terminal
+
+Listar pastas - ls
+
+Navegar entre as pastas - cd + nome da pasta
+
+Voltar um nível - cd ..
+
+Limpar tela do terminal - clear
+
+Criar uma pasta - mkdir + Nome da pasta
+
+Deletar um arquivo - rm -rf + nome da pasta
+
+
+
+## Git
+
+Iniciar Git - Git init
+
+Adicionar item- Git Add
+
+Adicionar todos os itens - git add .
+
+Commitar - git commit origin main
+
+Atualizar - git pull
+
+
