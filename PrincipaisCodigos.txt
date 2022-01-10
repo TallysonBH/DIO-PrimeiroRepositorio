@@ -24,7 +24,9 @@ Adicionar item- Git Add
 
 Adicionar todos os itens - git add .
 
-Commitar - git commit origin main
+Commitar - git commit -m (Escrever a mensagem.)
+
+Enviar ao GitHub - git push origin main
 
 Atualizar - git pull
 
