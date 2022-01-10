@@ -3,8 +3,8 @@
 
 ## Certificados
 
-Boas-Vindas ao Boot Camp LocalizaLabs.Net Developer #2
-Lógica de Programação Essencial
+Boas-Vindas ao Boot Camp LocalizaLabs.Net Developer #2.
+Lógica de Programação Essencial.
 Aprenda o que são Estrutura de Dados e Algoritmo
 Pensamento Computacional
 Primeiros Passos para Começar a Programar
