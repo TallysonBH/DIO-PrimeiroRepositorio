@@ -24,11 +24,4 @@ Introdução ao Git e ao GitHub
 
 [Markdonw - Sintaxes Básicas](https://www.markdownguide.org/basic-syntax/)
 
- [☺️](https://docs.google.com/forms/d/e/1FAIpQLSc8-fslwreuhn_eIlp5ognZG2EXgDzISFq7iucgvVBh7cFvTQ/viewform?embedded=true)
-
-
-
-
-
-
 
