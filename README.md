@@ -24,7 +24,7 @@ Introdução ao Git e ao GitHub
 
 [Markdonw - Sintaxes Básicas](https://www.markdownguide.org/basic-syntax/)
 
-☺️ [Acolhimento e Anaminese](https://docs.google.com/forms/d/e/1FAIpQLSc8-fslwreuhn_eIlp5ognZG2EXgDzISFq7iucgvVBh7cFvTQ/viewform?embedded=true)
+ [☺️Acolhimento e Anaminese](https://docs.google.com/forms/d/e/1FAIpQLSc8-fslwreuhn_eIlp5ognZG2EXgDzISFq7iucgvVBh7cFvTQ/viewform?embedded=true)
 
 
 
